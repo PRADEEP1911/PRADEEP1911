@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @PRADEEP1911
-- 👀 I’m interested in FRONT-END DEVELOPMENT & Data Analysis...
-- 🌱 I’m currently Final Year B.Tech AI&DS ...
-- 💞️ I’m looking to collaborate With FRIENDS...
-- 📫...
-
-<!---
-PRADEEP1911/PRADEEP1911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate developer who enjoys building real-world applications and continuously learning new technologies.
+Currently working on backend and AI-based systems while exploring scalable architectures, cloud technologies, and intelligent applications.
+Always curious about solving problems, improving skills, and creating impactful digital solutions.
